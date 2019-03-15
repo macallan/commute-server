@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "user": "commute_user",
+    "password": "greenbean",
+    "database": "commute",
+    "host": "localhost",
+    "multipleStatements": true
+  }
+}
